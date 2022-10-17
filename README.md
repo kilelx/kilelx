@@ -2,4 +2,4 @@
 
 - 👀 I’m interested in front-end development, and trying to improve my skills in Javascript
 
-- 🌱 I’m currently learning Vanilla Javascript and SCSS
+- 🌱 I’m currently learning React framework
