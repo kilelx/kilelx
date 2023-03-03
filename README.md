@@ -2,4 +2,4 @@
 
 - 👀 I’m interested in advanced front-end development
 
-- 🌱 I’m currently learning React framework, and GSAp animations
+- 🌱 I’m currently learning React framework, and GSAP animations
