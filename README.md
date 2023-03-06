@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kilelx , a 21-year-old student in France
+- 👋 Hi, I’m @kilelx , a 21-year-old student based in France
 
-- 👀 I’m interested in advanced front-end development
+- 👀 I’m interested in creative development
 
-- 🌱 I’m currently learning React framework, and GSAP animations
+- 🌱 I’m currently learning React framework, GSAP & SVG animations
