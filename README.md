@@ -2,4 +2,4 @@
 
 - 👀 Aim to be a creative developer
 
-- 🌱 I’m currently working on React and Three.js Journey
+- 🌱 I’m currently working on React native and Three.js Journey
