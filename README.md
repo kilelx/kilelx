@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kilelx , a 21-year-old student based in France
+- 👋 Hi, I’m Kieran , a 22-year-old student based in Rennes, France
 
 - 👀 Aim to be a creative developer
 
