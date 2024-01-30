@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kieran , a 22-year-old student based in Rennes, France
 
-- 👀 Aim to be a creative developer
+- 👀 Looking for an apprenticeship in creative development
 
-- 🌱 I’m currently working on React native and Three.js Journey
-
-- 💼 Available for work
+- 🌱 I’m currently working on Three.js Journey & Typescript
