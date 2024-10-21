@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kieran , a 22-year-old student based in Rennes, France
+- 👋 Hi, I’m Kieran , a 23-year-old student based in Rennes, France
 
-- 👀 Looking for an apprenticeship in web development
+- 🧳 Building your future SAAS as a web developer @Eid Lab
 
-- 🌱 I’m currently improving my skills on Next.js & Typescript
+- 🌱 I’m currently improving my skills on Next.js & Node.js
